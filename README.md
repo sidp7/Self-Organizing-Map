@@ -1,2 +1,2 @@
 # Self-Organizing-Map
-An Self organizing Map for Fraud Detection
+A Self organizing Map for Fraud Detection
